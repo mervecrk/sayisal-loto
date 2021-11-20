@@ -18,13 +18,14 @@ public class WhileOrnek {
 
             //genelde bu unutuluri
             //program sonsuz döngüye giriyot.
+
             sayac = sayac + 1;
         }
     }
 
 
     {
-        System.out.println();
+        System.out.println("Tekrarlanan Sayı var!");
     }
 
 }
